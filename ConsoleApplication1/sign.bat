@@ -1,0 +1,1 @@
+start "" "D:\Program Files\Jingoal\Jingoal.exe"
